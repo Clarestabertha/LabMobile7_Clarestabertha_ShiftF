@@ -1,0 +1,7 @@
+{
+  "name": "cobalogin-pert8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
